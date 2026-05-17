@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "vite": "latest",
+    "vue": "latest",
+    "vue-router": "latest",
+    "pinia": "latest",
+    "axios": "latest",
+    "element-plus": "latest",
+    "@element-plus/icons-vue": "latest",
+    "echarts": "latest",
+    "pdfjs-dist": "latest"
+  },
+  "devDependencies": {}
+}
